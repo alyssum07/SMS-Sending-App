@@ -1,0 +1,21 @@
+#account
+www.twilio.com
+login details
+username-contact.mudraksh@gmail.com
+password-qwerty12345678
+
+#installation required to run the code 
+install nodejs - https://nodejs.org/en/download/
+install python - https://www.python.org/downloads/
+#on cmd
+npm install twilio-cli -g
+twilio login
+shorthand - @
+account SID - AC0070e2589b12c28b2b285dcb3fb1a563
+auth token - daa2435ba430ff8a8645555fcf340254
+
+pip install twilio
+pip install prettytable
+pip install pandas
+pip install xlsxwriter
+pip install openpyxl
