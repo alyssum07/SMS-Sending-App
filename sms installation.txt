@@ -1,18 +1,19 @@
 #account
 www.twilio.com
 login details
-username-contact.mudraksh@gmail.com
-password-qwerty12345678
+username- enter your username
+password-your password
 
 #installation required to run the code 
 install nodejs - https://nodejs.org/en/download/
 install python - https://www.python.org/downloads/
+
 #on cmd
 npm install twilio-cli -g
 twilio login
 shorthand - @
-account SID - AC0070e2589b12c28b2b285dcb3fb1a563
-auth token - daa2435ba430ff8a8645555fcf340254
+account SID - copy from twilio account
+auth token - copy from twilio account
 
 pip install twilio
 pip install prettytable
